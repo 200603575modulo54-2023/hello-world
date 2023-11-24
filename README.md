@@ -1,2 +1,14 @@
-# hello-world
-atividade para o mapa do módulo54/2023
+# Thiago Augusto Querino de Oliveira
+ra200603575
+Estudando na unicesumar
+Desenvolvedor
+
+# Skill
+salesforce
+javascipt
+node
+typescript
+sql
+soql
+php
+laravel
